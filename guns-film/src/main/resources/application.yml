@@ -37,9 +37,9 @@ spring:
       registry: zookeeper://127.0.0.1:2181
       protocol:
        name: dubbo
-       port: 20881
+       port: 20882
   application:
-      name: meetting-user
+      name: meetting-film
 
 
 logging:
